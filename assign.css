@@ -1,0 +1,126 @@
+body {
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+
+}
+
+.m {
+    margin-top: 7%;
+    margin-left: 6%;
+}
+
+.fex {
+    display: flex;
+}
+
+section {
+    margin-bottom: 150px;
+}
+
+.p-font {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.p-font img {
+    width: 60%;
+
+}
+
+.app-font img {
+    width: 50%;
+    padding-left: 30%;
+    margin-left: 10%;
+}
+
+.orange-color {
+    color: orange;
+}
+
+h1 {
+    font-size: 50px;
+
+}
+
+.border {
+    border-left: 5px solid red;
+    padding-left: 15px;
+    border-radius: 5px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(tomato, red);
+    padding: 12px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+}
+
+.text {
+    width: 60%;
+    text-align: justify;
+}
+
+.cen {
+    text-align: center;
+}
+
+.mag {
+    margin-top: 80px;
+    margin-left: 50px;
+
+
+}
+
+.foot {
+    background-color: black;
+    text-align: center;
+    height: 180px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.foot h1 {
+    color: white;
+}
+
+.foot p {
+    color: white;
+}
+
+.foot span {
+    color: tomato;
+}
+
+.design {
+    width: 20%;
+    margin-left: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+    border-radius: 15px;
+
+    text-align: justify;
+}
+
+.blue {
+    background-color: rgb(239, 246, 246);
+}
+
+.pink {
+    background-color: rgb(251, 230, 234);
+}
+
+.yellow {
+    background-color: rgb(255, 236, 199);
+}
+
+.set-p {
+    width: 40%;
+    padding-top: 20px;
+}
+
+.main {
+    margin-left: 110px;
+}
